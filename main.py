@@ -1,5 +1,7 @@
 from utils import *
 
+# Estamos dentro de los 3 primeros !
+
 def main():
 	path1 = './data/bloq2bal.csv'
 	path2 = './data/unic2bal.csv'
