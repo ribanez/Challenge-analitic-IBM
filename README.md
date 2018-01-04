@@ -1,5 +1,8 @@
 
-# README 
+# README
+
+# Estamos dentro de los 3 primeros !
+
 
 En este archivo se exponen los antecedentes del proyecto, la metodología utilizada para abordar los desafíos, así como métricas y principales resultados que se obtienen durante el concurso.
 
